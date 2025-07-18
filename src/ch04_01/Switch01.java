@@ -44,8 +44,10 @@ public class Switch01 {
 			System.out.println("주사위에서 나올 수 없는 숫자가 입력되었습니다.");
 			break;
 		
-		}
+			}
 		
+		// 문자열 String case = "문자열"
+		// 문자 char case = '(문자)'
 	
 	}
 
