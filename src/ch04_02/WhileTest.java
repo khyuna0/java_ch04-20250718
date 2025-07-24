@@ -31,17 +31,19 @@ public class WhileTest {
 		
 		int kor = 80;
 		
-		while(kor >= 100) {
-			System.out.println("코리아 파이팅");
-		}
-		
 		do {
-			System.out.println("코리아 파이팅");
+			System.out.println("코리아 파이팅"); 
 		}
 		
 		while(kor >= 100); {
 			System.out.println("코리아 파이팅");
 		}
+		
+		
+		
+		
+		
+		
 		
 	}
  

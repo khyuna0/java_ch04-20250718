@@ -21,7 +21,7 @@ public class IfElseTest01 {
 			else if(score >= 60 ) {
 				System.out.println("양");
 			}	
-			else { // if-else if-else if 문 -> else if 이하의 조건문 블럭이 모두 거짓일 때 출력되는 실행문 블럭
+			else { // if-else if-else if 문 -> else if 이하의 조건문 블럭이 모두 거짓일 때 출력되는 실행 블럭
 				System.out.println("가");
 			}
 			System.out.println("축하"); // -> 별개
